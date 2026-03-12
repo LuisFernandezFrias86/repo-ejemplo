@@ -19,10 +19,10 @@ variables:
   
   # SonarCloud configuration
   # IMPORTANTE: Crear una Service Connection a SonarCloud en Azure DevOps
-  sonarCloudConnection: 'self-study-devops-sonarqube' # Nombre de la Service Connection
-  sonarCloudOrganization: 'myDevopsOrg' # Tu organization key en SonarCloud
-  sonarCloudProjectKey: 'myDevopsOrg-devsecops-lab1' # Project key en SonarCloud
-  sonarCloudProjectName: 'devsecops-lab1' # Nombre del proyecto
+  sonarCloudConnection: 'SonarCloud-Connection' # Nombre de la Service Connection
+  sonarCloudOrganization: 'devops-team-lff' # Tu organization key en SonarCloud
+  sonarCloudProjectKey: 'devops-team-lff' # Project key en SonarCloud
+  sonarCloudProjectName: 'devops-team-lff' # Nombre del proyecto
 
 stages:
 - stage: Build
