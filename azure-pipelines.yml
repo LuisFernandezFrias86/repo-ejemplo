@@ -22,7 +22,7 @@ variables:
   sonarCloudConnection: 'SonarCloud-Connection' # Nombre de la Service Connection
   sonarCloudOrganization: 'devops-team-lff' # Tu organization key en SonarCloud
   sonarCloudProjectKey: 'devops-team-lff' # Project key en SonarCloud
-  sonarCloudProjectName: 'devops-team-lff' # Nombre del proyecto
+  sonarCloudProjectName: 'SonarQube' # Nombre del proyecto
 
 stages:
 - stage: Build
