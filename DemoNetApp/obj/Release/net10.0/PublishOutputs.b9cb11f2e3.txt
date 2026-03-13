@@ -1,0 +1,9 @@
+C:\Users\luis.fernandez.frias\source\repos\repo-ejemplo\DemoNetApp\bin\Release\net10.0\publish\DemoNetApp.exe
+C:\Users\luis.fernandez.frias\source\repos\repo-ejemplo\DemoNetApp\bin\Release\net10.0\publish\appsettings.Development.json
+C:\Users\luis.fernandez.frias\source\repos\repo-ejemplo\DemoNetApp\bin\Release\net10.0\publish\appsettings.json
+C:\Users\luis.fernandez.frias\source\repos\repo-ejemplo\DemoNetApp\bin\Release\net10.0\publish\DemoNetApp.dll
+C:\Users\luis.fernandez.frias\source\repos\repo-ejemplo\DemoNetApp\bin\Release\net10.0\publish\DemoNetApp.deps.json
+C:\Users\luis.fernandez.frias\source\repos\repo-ejemplo\DemoNetApp\bin\Release\net10.0\publish\DemoNetApp.runtimeconfig.json
+C:\Users\luis.fernandez.frias\source\repos\repo-ejemplo\DemoNetApp\bin\Release\net10.0\publish\DemoNetApp.pdb
+C:\Users\luis.fernandez.frias\source\repos\repo-ejemplo\DemoNetApp\bin\Release\net10.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\luis.fernandez.frias\source\repos\repo-ejemplo\DemoNetApp\bin\Release\net10.0\publish\Microsoft.OpenApi.dll
